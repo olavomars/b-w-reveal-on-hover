@@ -68,7 +68,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	height: 100%;
-	mask-image: url(https://aquadev.site/_next/static/media/mask.b11f34bb.svg);
+	mask-image: url(./svg_mask.svg);
 	mask-size: 0px;
 	mask-repeat: no-repeat;
 	z-index: 300;
